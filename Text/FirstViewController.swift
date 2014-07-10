@@ -12,7 +12,19 @@ class FirstViewController: UIViewController {
                             
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        println("asdasdasdasd")
+        // Do any additional setup after loading the view, typically from a nib. // Do any additional setup after loading the view, typically from a nib.
+        // Do any additional setup after loading the view, typically from a nib.
+        // Do any additional setup after loading the view, typically from a nib.        println("asdasdasdasd")
+        // Do any additional setup after loading the view, typically from a nib. // Do any additional setup after loading the view, typically from a nib.
+        // Do any additional setup after loading the view, typically from a nib.
+        // Do any additional setup after loading the view, typically from a nib.        println("asdasdasdasd")
+        // Do any additional setup after loading the view, typically from a nib. // Do any additional setup after loading the view, typically from a nib.
+        // Do any additional setup after loading the view, typically from a nib.
+        // Do any additional setup after loading the view, typically from a nib.        println("asdasdasdasd")
+        // Do any additional setup after loading the view, typically from a nib. // Do any additional setup after loading the view, typically from a nib.
+        // Do any additional setup after loading the view, typically from a nib.
+        // Do any additional setup after loading the view, typically from a nib.
         println("asdasdasdasd")
         // Do any additional setup after loading the view, typically from a nib. // Do any additional setup after loading the view, typically from a nib.
         // Do any additional setup after loading the view, typically from a nib.
